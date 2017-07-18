@@ -15,6 +15,11 @@ h2{
 h3{
   font-size: 23px
 }
+.navigation ul{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
 .white{
   color: white;
 }
